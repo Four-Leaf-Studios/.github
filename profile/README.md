@@ -74,7 +74,7 @@ Interested in working with us or contributing to our projects? Here's how to get
 
 We're always interested in connecting with fellow developers, designers, and creative minds.
 
-- 📧 **Email:** [your-email@fourleafstudios.com](mailto:your-email@fourleafstudios.com)
+- 📧 **Email:** [hello@fourleafstudios.com](mailto:hello@fourleafstudios.com)
 - 🌐 **Website:** [www.fourleafstudios.com](https://www.fourleafstudios.com)
 - 💼 **LinkedIn:** [Four Leaf Studios](https://linkedin.com/company/four-leaf-studios)
 - 🐦 **Twitter:** [@FourLeafStudios](https://twitter.com/FourLeafStudios)
