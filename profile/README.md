@@ -74,11 +74,6 @@ We believe in the power of open source and community collaboration. If you're in
 5. Open a Pull Request
 
 Please read our [Contributing Guidelines](CONTRIBUTING.md) and [Code of Conduct](CODE_OF_CONDUCT.md) before getting started.
-
-## Organization Stats
-
-![Four Leaf Studios GitHub stats](https://github-readme-stats.vercel.app/api?username=four-leaf-studios&show_icons=true&theme=default)
-
 ---
 
 <div align="center">
