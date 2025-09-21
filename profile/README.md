@@ -76,8 +76,6 @@ We're always interested in connecting with fellow developers, designers, and cre
 
 - 📧 **Email:** [hello@fourleafstudios.com](mailto:hello@fourleafstudios.com)
 - 🌐 **Website:** [www.fourleafstudios.com](https://www.fourleafstudios.com)
-- 💼 **LinkedIn:** [Four Leaf Studios](https://linkedin.com/company/four-leaf-studios)
-- 🐦 **Twitter:** [@FourLeafStudios](https://twitter.com/FourLeafStudios)
 
 ## Contributing
 
